@@ -1,0 +1,13 @@
+C:\Users\amand\source\repos\Definition Offset Editor\Definition Offset Editor\obj\Debug\Definition Offset Editor.csprojAssemblyReference.cache
+C:\Users\amand\source\repos\Definition Offset Editor\Definition Offset Editor\obj\Debug\Definition_Offset_Editor.frmMain.resources
+C:\Users\amand\source\repos\Definition Offset Editor\Definition Offset Editor\obj\Debug\Definition_Offset_Editor.Properties.Resources.resources
+C:\Users\amand\source\repos\Definition Offset Editor\Definition Offset Editor\obj\Debug\Definition Offset Editor.csproj.GenerateResource.cache
+C:\Users\amand\source\repos\Definition Offset Editor\Definition Offset Editor\bin\Debug\Definition Offset Editor.exe.config
+C:\Users\amand\source\repos\Definition Offset Editor\Definition Offset Editor\bin\Debug\Definition Offset Editor.exe
+C:\Users\amand\source\repos\Definition Offset Editor\Definition Offset Editor\bin\Debug\Definition Offset Editor.pdb
+C:\Users\amand\source\repos\Definition Offset Editor\Definition Offset Editor\obj\Debug\Definition Offset Editor.exe
+C:\Users\amand\source\repos\Definition Offset Editor\Definition Offset Editor\obj\Debug\Definition Offset Editor.pdb
+C:\Users\amand\source\repos\Definition Offset Editor\Definition Offset Editor\bin\Debug\Definition Offset Editor.exe.manifest
+C:\Users\amand\source\repos\Definition Offset Editor\Definition Offset Editor\bin\Debug\Definition Offset Editor.application
+C:\Users\amand\source\repos\Definition Offset Editor\Definition Offset Editor\obj\Debug\Definition Offset Editor.exe.manifest
+C:\Users\amand\source\repos\Definition Offset Editor\Definition Offset Editor\obj\Debug\Definition Offset Editor.application
